@@ -1,0 +1,22 @@
+.DS_Store
+Thumbs.db
+
+# Editor and tool state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Local secrets or machine-specific variants
+.env
+.env.*
+*.local.conf
+*.private.conf
+*.secret.conf
